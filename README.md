@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matveyka2011
 - 👀 I’m interested in idei in python
 - 🌱 I’m currently learning in python
-- 💞️ I’m looking to collaborate on pthone
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me my mail
 -
 
